@@ -1,0 +1,29 @@
+<template>
+  <!-- revise settings
+  {
+    "explorer.confirmDelete": false,
+    "vetur.validation.template": false,
+    "eslint.autoFixOnSave": true,
+    "files.autoSave":"off",
+    "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    { "language": "vue", "autoFix": true }
+    ],
+    "eslint.options": {
+    "plugins": ["html"]
+    },
+    //为了符合eslint的两个空格间隔原则
+    "editor.tabSize": 2
+  } -->
+</template>
+<script>
+export default {
+
+}
+</script>
+<style>
+
+</style>
+
